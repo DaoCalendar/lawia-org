@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="C:\zenman_pro\Lawia_dev\lawia-org\j-lawyer-cloud\target/j-lawyer-cloud-1.0-SNAPSHOT.jar" tofile="C:\zenman_pro\Lawia_dev\lawia-org\j-lawyer-cloud/../j-lawyer-client/lib/j-lawyer-cloud/j-lawyer-cloud.jar"/>
+</target>
+</project>
